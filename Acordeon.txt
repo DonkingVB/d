@@ -1,4 +1,4 @@
-Menú Puntos
+aaaaaaMenú Puntos
 --------o---------o-------o---------o-------
 1. Click derecho en app -> New -> Android Resource Directory -> menu
 
